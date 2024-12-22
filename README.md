@@ -27,7 +27,7 @@ The system operates as follows:
 3. Override Code:
     - School officials or trusted members with access to the override code can bypass authentication via the keypad in case of emergencies or other authorized needs.
 
-4. Unauthorized Access Detection:
+4. Alarm for Unauthorized Access Detection:
     - If unauthorized users fail multiple attempts, the system activates the alarm. The alarm can only be disabled using the override code by a school security official.
 
 
