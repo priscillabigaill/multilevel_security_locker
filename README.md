@@ -14,7 +14,7 @@ This multi-level security locker system allows users to access their lockers thr
 The system operates as follows:
 
 1. Authentication Options:
-    - Users start by selecting an option on the keypad module:
+    - Users start by selecting an option on the keypad module
     - Press 1 for normal authentication.
     - Press 2 to use an override code for school officials.
 
