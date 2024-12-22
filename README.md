@@ -13,21 +13,21 @@ This multi-level security locker system allows users to access their lockers thr
 
 The system operates as follows:
 
-1. Authentication Options: Users start by selecting an option on the keypad module:
-
+1. Authentication Options:
+    - Users start by selecting an option on the keypad module:
     - Press 1 for normal authentication.
     - Press 2 to use an override code for school officials.
 
-2. Normal Authentication:
+4. Normal Authentication:
     - After selecting 1, the user places their finger on the fingerprint reader.
     - The system allows up to 5 attempts for successful fingerprint authentication. If all attempts fail, an alarm system is triggered.
     - Upon successful fingerprint verification, the system prompts the user for face recognition.
     - A successful match will grant the user access to the locker.
 
-3. Override Code:
+5. Override Code:
     - School officials or trusted members with access to the override code can bypass authentication via the keypad in case of emergencies or other authorized needs.
 
-4. Alarm for Unauthorized Access Detection:
+6. Alarm for Unauthorized Access Detection:
     - If unauthorized users fail multiple attempts, the system activates the alarm. The alarm can only be disabled using the override code by a school security official.
 
 
