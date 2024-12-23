@@ -2,7 +2,7 @@
 
 This repository contains the code made for a <b> multi-level security locker system </b> using an <b> Arduino microcontroller </b> and its system implemented with <b>C++</b>.
 
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch-red?logo=youtube)]()
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch-red?logo=youtube)](https://drive.google.com/file/d/1uS3ckJEJ1L8N58OeE2i4RW-ki-n1TR1I/view?usp=sharing)
 [![Report](https://img.shields.io/badge/Report-Read-blue?logo=microsoft-word)](https://drive.google.com/file/d/1GR87IhDaqO7N5YS1hmfOAu4GgrUsVi7z/view?usp=sharing)
 
 <img src="Arduino Poster.png" alt="x" style="border-radius: 15px; margin-bottom: 20px; width: 250px;">
